@@ -5,8 +5,8 @@ This project is build using openCV with python and Mediapipe.
 MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines.
 Hand is tracked and with the tip of finger one can move the cursor  of the pc.
 
-* ![alt text](https://raw.githubusercontent.com/Sushil3125/Cursor Control\2capture.jpg)
-* ![alt text](https://raw.githubusercontent.com/Sushil3125/Cursor Control\1capture.jpg)
+* ![alt text](https://raw.githubusercontent.com/Sushil3125/Cursor-Control-With-Finger-Tip/main/Screenshoot/2capture.JPG)
+* ![alt text](https://raw.githubusercontent.com/Sushil3125/Cursor-Control-With-Finger-Tip/main/Screenshoot/1capture.JPG)
 
 
 ## Getting Started
